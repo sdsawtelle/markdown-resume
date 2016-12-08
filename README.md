@@ -5,6 +5,6 @@ Changing the content or styling of a resume or CV is a relatively common event t
 
 **Still trying to decide if this is the workflow for you? Here are the original markdown files and the three output files for your persual**: 
 
-[Markdown](files/resume.md) . [HTML](files/resume.html) . [PDF](files/resume.pdf) . [Word Doc](files/resume.docx)
+[Markdown](resume.md) . [HTML](resume.html) . [PDF](resume.pdf) . [Word Doc](resume.docx)
 
 [Full work flow details](http://sdsawtelle.github.io/blog/output/simplest-markdown-resume-workflow.html) are contained in a short blog post. 
