@@ -1,6 +1,6 @@
----
-title: Sonya Sawtelle
----
+Sonya Sawtelle
+======
+
 #### Data enthusiast with a strong background in math, science and programming. 
 ###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
 
