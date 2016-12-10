@@ -7,4 +7,4 @@ Changing the content or styling of a resume or CV is a relatively common event t
 
 [Markdown](resume.md) . [HTML](resume.html) . [PDF](resume.pdf) . [Word Doc](resume.docx)
 
-[Full work flow details](http://sdsawtelle.github.io/blog/output/simplest-markdown-resume-workflow.html) are contained in a short blog post. 
+[Full work flow details](http://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html) are contained in a short blog post. 
